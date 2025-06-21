@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Gowtham-071  
-- 🚀 Data Science & Machine Learning Enthusiast  
-- 📊 Passionate about Data Science, Machine Learning, and AI  
-- 📈 Currently exploring Machine Learning & Data Analytics  
-- 🤝 Open to collaborating on open-source projects & research  
-- ⚡ Always learning and sharing insights on Python, ML, and Data Analysis  
-- 🔥 Fun fact: Tech enthusiast who loves solving real-world problems with data  
+- 🎨 Passionate about UI/UX design & building human-centered interfaces  
+- 🚀 Also exploring Data Science, Machine Learning & AI  
+- 🧠 I design intuitive user experiences using Figma, HTML, CSS & JS  
+- 📊 Love analyzing user behavior & feedback to improve usability  
+- 💻 Currently building UI projects + learning frontend systems  
+- 🤝 Open to collaborations in design, front-end & open-source  
+- 🔥 Fun fact: I mix empathy with logic — I design with purpose & code with curiosity
