@@ -11,7 +11,6 @@
 💡 Interests: **Data Science, AI, ML, and Web Development for DS**  
 🌱 Currently learning: **Deep Learning, LLMs, SQL, and Full-Stack Data Science**  
 🤝 Open to collaborating on: **AI-driven & data-driven projects**  
-⚡ Fun fact: *"Success depends on the second letter"* – Steve Jobs  
 
 ---
 
