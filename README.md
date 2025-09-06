@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Gowtham-071  
-- 🎨 Passionate about UI/UX design & building human-centered interfaces  
-- 🚀 Also exploring Data Science, Machine Learning & AI  
+- 🚀 Love exploring Data Science, Machine Learning & AI  
 - 🧠 I design intuitive user experiences using Figma, HTML, CSS & JS  
 - 📊 Love analyzing user behavior & feedback to improve usability  
 - 💻 Currently building UI projects + learning frontend systems  
