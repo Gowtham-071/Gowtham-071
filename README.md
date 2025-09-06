@@ -1,88 +1,91 @@
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7D9&center=true&width=600&lines=%3C%F0%9F%91%8B+Hey%2C+I'm+Gowtham!+%2F%3E;%F0%9F%92%BB+B.Tech+CS+Final+Year+Student;%F0%9F%94%A7+Aspiring+Data+Scientist+%7C+AI+Enthusiast;%F0%9F%9A%80+Learning+%26+Building+Everyday)](https://github.com/Gowtham-071)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7D9&center=true&width=650&lines=Hey+👋+I'm+Chanchala+Sai+Gowtham!;Final+Year+B.Tech+CS+Student;Aspiring+Data+Scientist+%7C+AI+Engineer;Learning+%26+Building+Everyday+🚀)](https://github.com/Gowtham-071)
 
 </div>
 
 ---
 
-## 💫 About Me  
-🎓 **Final Year B.Tech (CS)** | Passionate about **Data Science & AI**  
-🌱 Currently learning: **Python, NumPy, Pandas, SQL, Data Visualization, ML Basics**  
-🤝 Looking to collaborate on: **Beginner-friendly DS/ML projects**  
-⚡ Fun fact: I enjoy solving coding challenges & finding patterns in data  
+## 👨‍💻 About Me  
+🎓 Final Year B.Tech in **Computer Science & Engineering** @ CMR University (CGPA: 7.75/10)  
+💡 Interests: **AI, ML, and Data Science**  
+🌱 Currently learning: **ML basics and Data Visualization**  
+🤝 Open to collaborating on: **AI-Powered & data-driven projects**  
 
 ---
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/chanchala-sai-gowtham-a06314322) 
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gowtham-071) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/saigowtham712/) 
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/saigowtham712) 
+## 🌍 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/chanchala-sai-gowtham-a06314322)  
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gowtham-071)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/saigowtham712/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/saigowtham712)  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/saigowt40y1/)  
 
 ---
 
-## 💻 Tech Stack  
+## 🛠️ Tech Stack  
 
-<div align="center">
+**Languages & Databases**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+**Libraries & Frameworks**  
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 
-**Data Science & Libraries**  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black) 
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-
-**Databases & Tools**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+**Tools & Design**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)  
+![Adobe XD](https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 
-**Future Skills (Roadmap)**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+**AI Tools**  
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)  
+![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)  
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)  
+![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=white)  
 
-</div>
+---
+
+## 🚀 Featured Projects  
+
+🔒 **NIR Biometric Authentication** *(Ongoing)* – AI-based contactless vein authentication system using NIR imaging & deep learning.  
+🌊 **Flood Victim Detection System (ResQ)** – CNN-based human detection from drone/satellite images with SOS alerts.  
+🏥 **AI-Powered Medical Diagnosis** – Automated disease prediction from health records & medical images with DL models.  
+☁️ **Weather App** – Responsive web app fetching real-time weather data via external APIs.  
+
+---
+
+## 🏆 Achievements & Certifications  
+
+- 🥈 **First Runner-Up, CAUSE 2025** – *ResQ: AI-powered disaster response system*  
+- 🏅 **Spirit of Innovation, CAUSE 2023** – *HelloMate: Academic & hostel management solution*  
+- ⚙️ Built a **temperature-controlled motor setup** at MWE Competition (2023)  
+- 🎓 **Certifications:** Python (Basic) – HackerRank, SQL (Basic) – HackerRank, Data Mining (Udemy)  
 
 ---
 
 ## 📊 GitHub Stats  
-
-<div align="center">
-
 ![](https://github-readme-stats.vercel.app/api?username=Gowtham-071&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gowtham-071&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham-071&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
-
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham-071&theme=tokyonight&hide_border=false&layout=compact)  
 
 ---
 
-## ✍️ Quote I Live By  
-
-<div align="center">
-
-⭐ *"sUccess depends on the second letter."* – Steve Jobs  
-
-</div>
+## ✍️ Quote of the Day  
+> *"Success depends on the second letter."* – Steve Jobs  
 
 ---
 
 ## 🔝 Top Contributions  
-
-<div align="center">
-
 ![](https://github-contributor-stats.vercel.app/api?username=Gowtham-071&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)  
-
-</div>
