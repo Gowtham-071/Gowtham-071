@@ -8,9 +8,9 @@
 
 ## 👨‍💻 About Me  
 🎓 Final Year B.Tech in **Computer Science & Engineering** @ CMR University (CGPA: 7.75/10)  
-💡 Interests: **Data Science, AI, ML, and Web Development for DS**  
-🌱 Currently learning: **Deep Learning, LLMs, SQL, and Full-Stack Data Science**  
-🤝 Open to collaborating on: **AI-driven & data-driven projects**  
+💡 Interests: **AI, ML, and Data Science**  
+🌱 Currently learning: **ML basics and Data Visualization**  
+🤝 Open to collaborating on: **AI-Powered & data-driven projects**  
 
 ---
 
