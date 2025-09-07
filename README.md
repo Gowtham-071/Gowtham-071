@@ -28,18 +28,50 @@
 ---
 
 ## 🚀 Featured Projects  
-🔒 **NIR Biometric Authentication** *(Ongoing)* – AI-based contactless vein authentication system using NIR imaging & deep learning.  
-🌊 **Flood Victim Detection System (ResQ)** – CNN-based human detection from drone/satellite images with SOS alerts.  
-🏥 **AI-Powered Medical Diagnosis** – Automated disease prediction from health records & medical images with DL models.  
-☁️ **Weather App** – Responsive web app fetching real-time weather data via external APIs.  
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <div style="border: 1px solid #2a2a2a; border-radius: 15px; padding: 15px; width: 300px;">
+    🔒 <b>NIR Biometric Authentication</b> *(Ongoing)*  
+    AI-based contactless vein authentication system using NIR imaging & deep learning.
+  </div>
+
+  <div style="border: 1px solid #2a2a2a; border-radius: 15px; padding: 15px; width: 300px;">
+    🌊 <b>Flood Victim Detection System (ResQ)</b>  
+    CNN-based human detection from drone/satellite images with SOS alerts.
+  </div>
+
+  <div style="border: 1px solid #2a2a2a; border-radius: 15px; padding: 15px; width: 300px;">
+    🏥 <b>AI-Powered Medical Diagnosis</b>  
+    Automated disease prediction from health records & medical images with DL models.
+  </div>
+
+  <div style="border: 1px solid #2a2a2a; border-radius: 15px; padding: 15px; width: 300px;">
+    ☁️ <b>Weather App</b>  
+    Responsive web app fetching real-time weather data via external APIs.
+  </div>
+</div>
 
 ---
 
 ## 🏆 Achievements  
-- 🥈 **First Runner-Up** – Groscuition Challenge (€20,000 Prize)  
-- 🎓 Completed **Data Science & AI course** with hands-on projects  
-- 🏅 Active on **LeetCode, HackerRank, and GFG** with problem-solving track record  
-- 🌟 Consistent GitHub contributions with multiple open-source projects  
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <div style="border: 1px solid #2a2a2a; border-radius: 15px; padding: 15px; width: 250px;">
+    🥈 <b>First Runner-Up</b> – Groscuition Challenge (€20,000 Prize)
+  </div>
+
+  <div style="border: 1px solid #2a2a2a; border-radius: 15px; padding: 15px; width: 250px;">
+    🎓 Completed <b>Data Science & AI course</b> with hands-on projects
+  </div>
+
+  <div style="border: 1px solid #2a2a2a; border-radius: 15px; padding: 15px; width: 250px;">
+    🏅 Active on <b>LeetCode, HackerRank, and GFG</b> with problem-solving track record
+  </div>
+
+  <div style="border: 1px solid #2a2a2a; border-radius: 15px; padding: 15px; width: 250px;">
+    🌟 Consistent GitHub contributions with multiple open-source projects
+  </div>
+</div>
 
 ---
 
@@ -58,8 +90,6 @@
 ---
 
 ## 🛠️ Tech Stack  
-
-**Languages & Databases**  
 <p> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
