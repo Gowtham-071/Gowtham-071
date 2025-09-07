@@ -11,14 +11,15 @@
       <img src="https://raw.githubusercontent.com/Gowtham-071/Gowtham-071/main/Me.jpg" width="300" alt="Cool Coding Guy"/>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      ## 👨‍💻 About Me
-      🎓 Final Year B.Tech in **Computer Science & Engineering** @ CMR University (CGPA: 7.75/10)  
-      💡 Interests: **AI, ML, and Data Science**  
-      🌱 Currently learning: **ML basics and Data Visualization**  
-      🤝 Open to collaborating on: **AI-Powered & data-driven projects**
+      <h2>👨‍💻 About Me</h2>
+      <p>🎓 Final Year B.Tech in <b>Computer Science & Engineering</b> @ CMR University (CGPA: 7.75/10)<br>
+      💡 Interests: <b>AI, ML, and Data Science</b><br>
+      🌱 Currently learning: <b>ML basics and Data Visualization</b><br>
+      🤝 Open to collaborating on: <b>AI-Powered & data-driven projects</b></p>
     </td>
   </tr>
 </table>
+
 
 
 ---
