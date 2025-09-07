@@ -120,5 +120,5 @@
 
 ## 💡 Motivation  
 <p align="center">
-  <b>“Success depends on the second letter.”</b> – Steve Jobs  
+  <b>“sUccess depends on the second letter.”</b> – Steve Jobs  
 </p>
