@@ -1,111 +1,77 @@
-<div align="center">
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/Gowtham-071)
+<h1 align="center">Hi 👋, I'm Chanchala Sai Gowtham</h1>
+<h3 align="center">Final Year CSE Student | AI & Data Science Enthusiast</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7D9&center=true&width=650&lines=Hey+👋+I'm+Chanchala+Sai+Gowtham!;Final+Year+B.Tech+CS+Student;Aspiring+Data+Scientist+%7C+AI+Engineer;Learning+%26+Building+Everyday+🚀)](https://github.com/Gowtham-071)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gowtham-071&label=Profile%20views&color=0e75b6&style=flat" alt="gowtham-071" /> </p>
 
-</div>
+- 🔭 I’m currently working on **NIR Biometric Authentication**  
+- 🌱 I’m currently learning **Machine Learning & Deep Learning**  
+- 👯 I’m looking to collaborate on **AI x Data Science Projects**  
+- 💬 Ask me about **Python, Data Science, ML**  
+- 📫 Reach me at **saigowtham712@gmail.com**  
+- ⚡ Fun fact: **Coffee + Debugging = My Daily Routine**  
 
 ---
 
-## 👨‍💻 About Me  
-🎓 Final Year B.Tech in **Computer Science & Engineering** @ CMR University (CGPA: 7.75/10)  
-💡 Interests: **AI, ML, and Data Science**  
-🌱 Currently learning: **ML basics and Data Visualization**  
-🤝 Open to collaborating on: **AI-Powered & data-driven projects**  
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/chanchala-sai-gowtham-a06314322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/saigowtham712/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=leetcode" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/saigowtham712" target="blank"><img align="center" src="https://skillicons.dev/icons?i=hackerrank" height="30" width="40" /></a>
+<a href="https://github.com/Gowtham-071" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/saigowt40y1/" target="blank"><img align="center" src="https://img.shields.io/badge/GFG-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="30" /></a>
+</p>
 
 ---
 
-## 🌍 Connect with Me  
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> </a> 
+  <a href="https://numpy.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="40" height="40"/></a> 
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://pandas.pydata.org/static/img/pandas_secondary_white.svg" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a> 
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="40" height="40"/></a> 
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a> 
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a> 
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a> 
+  <a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"/></a>
+</p>
+
+---
+
+<h3 align="left">🚀 Featured Projects:</h3>
+
+- 🔒 **NIR Biometric Authentication** – Contactless vein recognition using NIR imaging + DL  
+- 🌊 **ResQ: AI for Disaster Relief** – CNN-powered flood victim detection system *(CAUSE 2025 Runner-Up)*  
+- 🏥 **AI-Powered Medical Diagnosis** – Predictive healthcare insights using deep learning  
+- ☁️ **WeatherSphere** – Real-time responsive weather app  
+
+---
+
+<h3 align="left">🏆 Achievements:</h3>
+
+- 🥈 **Runner-Up @ CAUSE 2025** – ResQ  
+- 🏅 **Spirit of Innovation @ CAUSE 2023** – HelloMate  
+- ⚙️ Built **Temperature-Controlled Motor System** (MWE 2023)  
+- 📜 **Certified** – Python (Basic), SQL (Basic), Data Mining  
+
+---
+
+[![Gowtham's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gowtham-071&theme=xcode)](https://github.com/Gowtham-071)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gowtham-071&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gowtham-071" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gowtham-071&show_icons=true&locale=en&theme=tokyonight" alt="gowtham-071" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gowtham-071&&theme=tokyonight" alt="gowtham-071" /></p>
+
+---
+
+<h3 align="center">🎵 Now Playing on Spotify</h3>
 <p align="center">
-  <a href="www.linkedin.com/in/chanchala-sai-gowtham-a06314322">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Gowtham-071">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/saigowtham712/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/saigowtham712">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/saigowt40y1/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  <a href="https://open.spotify.com/user/31jkf6xgpn6ycn3o6c2i2k5h7dru"> <!-- replace with your Spotify user link -->
+    <img src="https://novatorem-git-main-gowtham-071.vercel.app/api/spotify" alt="Spotify Now Playing" width="400" />
   </a>
 </p>
-
----
-
-## 🛠️ Tech Stack  
-
-**Languages & Databases**  
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-**Libraries & Frameworks**  
-<p>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
-
-**Tools & Design**  
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
-
-**AI Tools**  
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=white"/>
-</p>
-
----
-
-## 🚀 Featured Projects  
-
-🔒 **NIR Biometric Authentication** *(Ongoing)* – AI-based contactless vein authentication system using NIR imaging & deep learning.  
-🌊 **Flood Victim Detection System (ResQ)** – CNN-based human detection from drone/satellite images with SOS alerts.  
-🏥 **AI-Powered Medical Diagnosis** – Automated disease prediction from health records & medical images with DL models.  
-☁️ **Weather App** – Responsive web app fetching real-time weather data via external APIs.  
-
----
-
-## 🏆 Achievements & Certifications  
-
-- 🥈 **First Runner-Up, CAUSE 2025** – *ResQ: AI-powered disaster response system*  
-- 🏅 **Spirit of Innovation, CAUSE 2023** – *HelloMate: Academic & hostel management solution*  
-- ⚙️ Built a **temperature-controlled motor setup** at MWE Competition (2023)  
-- 🎓 **Certifications:** Python (Basic) – HackerRank, SQL (Basic) – HackerRank, Data Mining (Udemy)  
-
----
-
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=Gowtham-071&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gowtham-071&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham-071&theme=tokyonight&hide_border=false&layout=compact)  
-
----
-
-## ✍️ Quote of the Day  
-> *"Success depends on the second letter."* – Steve Jobs  
-
----
-
-## 🔝 Top Contributions  
-![](https://github-contributor-stats.vercel.app/api?username=Gowtham-071&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)  
