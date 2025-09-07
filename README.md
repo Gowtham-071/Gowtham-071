@@ -1,6 +1,7 @@
-<div align="center"> 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7D9&center=true&width=650&lines=Hey+👋+I'm+Chanchala+Sai+Gowtham!;Final+Year+B.Tech+CS+Student;Aspiring+Data+Scientist+%7C+AI+Engineer;Learning+%26+Building+Everyday+🚀)](https://github.com/Gowtham-071) 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7D9&center=true&width=650&lines=Hey+👋+I'm+Chanchala+Sai+Gowtham!;Final+Year+B.Tech+CS+Student;Aspiring+Data+Scientist+%7C+AI+Engineer;Learning+%26+Building+Everyday+🚀" alt="Typing SVG" />
+</p>
+
 
 ---
 
