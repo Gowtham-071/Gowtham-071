@@ -2,29 +2,28 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7D9&center=true&width=650&lines=Hey+👋+I'm+Chanchala+Sai+Gowtham!;Final+Year+B.Tech+CS+Student;Aspiring+Data+Scientist+%7C+AI+Engineer;Learning+%26+Building+Everyday+🚀" alt="Typing SVG" />
 </p>
 
-
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gowtham-071/Gowtham-071/main/Me.jpg" width="400" alt="Cool Coding Guy"/>
-</p>
-
----
-
-## 👨‍💻 About Me  
-🎓 Final Year B.Tech in **Computer Science & Engineering** @ CMR University (CGPA: 7.75/10)  
-💡 Interests: **AI, ML, and Data Science**  
-🌱 Currently learning: **ML basics and Data Visualization**  
-🤝 Open to collaborating on: **AI-Powered & data-driven projects**
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
+  <div style="flex: 1; min-width: 250px; max-width: 350px;">
+    <img src="https://raw.githubusercontent.com/Gowtham-071/Gowtham-071/main/Me.jpg" style="width: 100%; border-radius: 15px;" alt="Cool Coding Guy"/>
+  </div>
+  <div style="flex: 2; min-width: 250px;">
+    ## 👨‍💻 About Me
+    🎓 Final Year B.Tech in **Computer Science & Engineering** @ CMR University (CGPA: 7.75/10)  
+    💡 Interests: **AI, ML, Data Science**  
+    🌱 Currently learning: **ML basics & Data Visualization**  
+    🤝 Open to collaborating on **AI-powered & data-driven projects**
+  </div>
+</div>
 
 ---
 
 ## 🎮 Fun Zone  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-  <br>
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400" alt="Dino Game"/>
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" width="300"/>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="300" alt="Dino Game"/>
+</div>
 
 ---
 
@@ -45,14 +44,16 @@
 ---
 
 ## 📊 GitHub Progress  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gowtham-071&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowtham-071&theme=tokyonight" height="160" />
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gowtham-071&show_icons=true&theme=tokyonight" style="max-width: 350px; border-radius: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowtham-071&theme=tokyonight" style="max-width: 350px; border-radius: 10px;"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham-071&layout=compact&theme=tokyonight" height="160"/>
-</p>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham-071&layout=compact&theme=tokyonight" style="max-width: 350px; border-radius: 10px;"/>
+  <br><br>
+  <img src="https://ghchart.rshah.org/Gowtham-071" alt="GitHub Contribution Graph" width="100%" style="border-radius:10px;"/>
+</div>
 
 ---
 
@@ -99,13 +100,13 @@
 ---
 
 ## 🌍 Connect with Me  
-<p align="center"> 
-  <a href="www.linkedin.com/in/chanchala-sai-gowtham-a06314322"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
-  <a href="https://github.com/Gowtham-071"> <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/> </a> 
-  <a href="https://leetcode.com/u/saigowtham712/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/> </a> 
-  <a href="https://www.hackerrank.com/profile/saigowtham712"> <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a> 
-  <a href="https://www.geeksforgeeks.org/user/saigowt40y1/"> <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> </a> 
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <a href="https://www.linkedin.com/in/chanchala-sai-gowtham-a06314322"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Gowtham-071"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/saigowtham712/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/saigowtham712"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+  <a href="https://www.geeksforgeeks.org/user/saigowt40y1/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+</div>
 
 ---
 
