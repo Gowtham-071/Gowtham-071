@@ -67,7 +67,7 @@
 
 ## 🚀 Key Projects
 
-### 🔒 Financial Document Processing System
+### 🔒 Financial Document Processing System *(Ongoing)*
 - Building an invoice fraud detection system using **Python, CNN, and OCR**  
 - Used **Kaggle invoice datasets** and manually tampered samples to simulate fraud cases  
 - Developed a **Flask-based web application** to upload documents and display verification results  
@@ -82,10 +82,12 @@
 
 ---
 
-### 📱 Habit Tracker Android App
-- Offline Android application with habit tracking and analytics  
-- Implemented calendar-based tracking and statistical insights  
-- Focused on data persistence and progress analysis  
+### 🏥 Medical Data Processing & Reporting System
+- Tested workflows for **data integrity, processing accuracy, and output consistency**  
+- Identified failure cases during preprocessing and analysis stages  
+- Verified reports and visual outputs against expected analytical results  
+
+ Focused on data persistence and progress analysis  
 
 ---
 
@@ -109,12 +111,15 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
-**Data & Machine Learning**  
+**Data & AI / ML**  
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+<img src="https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OCR-5A29E4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
 **Tools**  
