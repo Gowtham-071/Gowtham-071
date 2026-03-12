@@ -7,7 +7,7 @@
 <table>
 <tr>
 <td>
-<img src="https://raw.githubusercontent.com/Gowtham-071/Gowtham-071/main/Me.jpg" width="270" alt="Profile Image"/>
+<img src="https://raw.githubusercontent.com/Gowtham-071/Gowtham-071/main/Me.jpg" width="400" alt="Profile Image"/>
 </td>
 
 <td style="vertical-align: top; padding-left: 20px;">
