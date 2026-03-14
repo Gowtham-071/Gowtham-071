@@ -1,23 +1,29 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7D9&center=true&width=750&lines=Hey+👋+I'm+Chanchala+Sai+Gowtham;Final+Year+B.Tech+CS+Student;Aspiring+Data+Analyst+%7C+Data+Scientist;Working+with+Data%2C+Models+and+Insights+📊" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7D9&center=true&width=750&lines=Hey+👋+I'm+Chanchala+Sai+Gowtham;Final+Year+B.Tech+CS+Student;Aspiring+Data+Analyst+%7C+Data+Scientist;Working+with+Data%2C+Models+and+Insights+📊"/>
 </p>
 
 ---
 
 <table>
 <tr>
-<td>
-<img src="https://raw.githubusercontent.com/Gowtham-071/Gowtham-071/main/Me.jpg" width="400" alt="Profile Image"/>
+
+<td align="center" width="40%">
+
+<img src="https://raw.githubusercontent.com/Gowtham-071/Gowtham-071/main/Me.jpg"
+width="100%"
+style="max-width:380px;border-radius:12px;"
+alt="Profile Image"/>
+
 </td>
 
-<td style="vertical-align: top; padding-left: 20px;">
+<td width="60%" style="vertical-align:top;padding-left:25px;">
 
 <h2>👨‍💻 About Me</h2>
 
-🎓 Final Year B.Tech in <b>Computer Science & Engineering</b> @ CMR University (CGPA: <b>7.93</b>)
-📊 Career focus on <b>Data Analyst & Data Scientist</b> roles
-🧠 Strong foundation in <b>Data Analytics, Machine Learning, and AI fundamentals</b>
-🌱 Currently strengthening <b>Python, SQL, EDA, ML basics & data visualization</b>
+🎓 Final Year B.Tech in <b>Computer Science & Engineering</b> @ CMR University (CGPA: <b>7.93</b>)  
+📊 Career focus on <b>Data Analyst & Data Scientist</b> roles  
+🧠 Strong foundation in <b>Data Analytics, Machine Learning, and AI fundamentals</b>  
+🌱 Currently strengthening <b>Python, SQL, EDA, ML basics & data visualization</b>  
 🎯 Interested in roles involving <b>data-driven decision making and analytical problem solving</b>
 
 </td>
@@ -40,36 +46,33 @@
 
 # 💼 Experience & Practical Exposure
 
-### 🧪 Beta Tester — **OPPO (Confidential Program)** *(Remote)*
-
+### 🧪 Beta Tester — OPPO (Confidential Program) *(Remote)*  
 **2025 – Present**
 
-* Performed functional, performance, and regression testing on unreleased devices
-* Reported bugs using internal tools with clear reproduction steps
-* Verified fixes after monthly OS updates
-* Strengthened analytical thinking and validation skills
+* Performed functional, performance, and regression testing on unreleased devices  
+* Reported bugs using internal tools with clear reproduction steps  
+* Verified fixes after monthly OS updates  
+* Strengthened analytical thinking and validation skills  
 
 ---
 
-### 🧠 Data Preprocessing Intern — **LucidML, Bangalore** *(Onsite)*
-
+### 🧠 Data Preprocessing Intern — LucidML, Bangalore *(Onsite)*  
 **Oct 2025 – Jan 2026**
 
-* Worked with Python scripts in Jupyter Notebook for dataset preparation
-* Executed and monitored batch processing scripts on VM environments
-* Handled large datasets and ensured successful script completion
+* Worked with Python scripts in Jupyter Notebook for dataset preparation  
+* Executed and monitored batch processing scripts on VM environments  
+* Handled large datasets and ensured successful script completion  
 
 ---
 
-### 🤖 AI Intern — **AICTE TechSaksham (Microsoft & SAP)** *(Remote)*
-
+### 🤖 AI Intern — AICTE TechSaksham (Microsoft & SAP) *(Remote)*  
 **Feb 2025 – Apr 2025**
 
-* Worked on a Medical Imaging Data Analytics project
-* Performed data cleaning and preprocessing using Pandas and NumPy
-* Conducted exploratory analysis on disease-related datasets
-* Generated analytical insights through visualizations
-* Built a Streamlit dashboard for data summaries
+* Worked on a Medical Imaging Data Analytics project  
+* Performed data cleaning and preprocessing using Pandas and NumPy  
+* Conducted exploratory analysis on disease-related datasets  
+* Generated analytical insights through visualizations  
+* Built a Streamlit dashboard for data summaries  
 
 ---
 
@@ -77,29 +80,29 @@
 
 ### 🖥️ System Monitoring Dashboard
 
-* Built a **real-time system monitoring dashboard** using Python, Streamlit, and psutil
-* Tracks **CPU, memory, disk usage, network statistics, and running processes**
-* Includes **historical performance graphs and alert indicators**
-* Displays **top resource consuming processes for troubleshooting**
+* Built a **real-time system monitoring dashboard** using Python, Streamlit, and psutil  
+* Tracks **CPU, memory, disk usage, network statistics, and running processes**  
+* Includes **historical performance graphs and alert indicators**  
+* Displays **top resource consuming processes for troubleshooting**  
 * Supports **CSV export of system performance logs**
 
-🔗 Repository:
+🔗 Repository  
 https://github.com/Gowtham-071/system-monitor-dashboard
 
 ---
 
 ### 🔒 Financial Document Processing System *(Ongoing)*
 
-* Building an invoice fraud detection system using **Python, CNN, and OCR**
-* Used **Kaggle invoice datasets** and tampered samples to simulate fraud cases
-* Developing a **Flask-based web interface** to upload and verify invoices
+* Building an invoice fraud detection system using **Python, CNN, and OCR**  
+* Used **Kaggle invoice datasets** and tampered samples to simulate fraud cases  
+* Developing a **Flask-based web interface** to upload and verify invoices  
 
 ---
 
 ### 🌊 ResQ – Disaster Analytics System *(Group Project)*
 
-* Worked on an **AI-based disaster detection concept**
-* Explored **object detection using YOLO models**
+* Worked on an **AI-based disaster detection concept**  
+* Explored **object detection using YOLO models**  
 * Contributed to **system workflow design and project presentations**
 
 🏆 First Runner-Up – CAUSE 2025
@@ -108,10 +111,10 @@ https://github.com/Gowtham-071/system-monitor-dashboard
 
 # 🏆 Achievements
 
-* 🥈 **First Runner-Up – CAUSE 2025** (ResQ Project)
-* 🏅 **Spirit of Innovation Award – CAUSE 2023**
-* 🎓 **Data Science & AI Certification** (Microsoft & LinkedIn)
-* 📜 **Oracle Cloud Infrastructure Certified Data Science Professional**
+* 🥈 **First Runner-Up – CAUSE 2025 (ResQ Project)**  
+* 🏅 **Spirit of Innovation Award – CAUSE 2023**  
+* 🎓 **Data Science & AI Certification (Microsoft & LinkedIn)**  
+* 📜 **Oracle Cloud Infrastructure Certified Data Science Professional**  
 * 📜 **Oracle Cloud Infrastructure Certified Generative AI Professional**
 
 ---
