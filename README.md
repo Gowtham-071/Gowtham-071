@@ -202,5 +202,5 @@ https://github.com/Gowtham-071/system-monitor-dashboard
 # 💡 Belief
 
 <p align="center">
-<b>"Success depends on the second letter."</b> – Steve Jobs
+<b>"sUccess depends on the second letter."</b> – Steve Jobs
 </p>
