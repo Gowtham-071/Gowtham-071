@@ -20,7 +20,7 @@ alt="Profile Image"/>
 
 <h2>👨‍💻 About Me</h2>
 
-🎓 Final Year B.Tech in <b>Computer Science & Engineering</b> @ CMR University (CGPA: <b>7.93</b>)  
+🎓 Final Year B.Tech in <b>Computer Science & Engineering</b> @ CMR University (CGPA: <b>8.07</b>)  
 📊 Career focus on <b>Data Analyst & Data Scientist</b> roles  
 🧠 Strong foundation in <b>Data Analytics, Machine Learning, and AI fundamentals</b>  
 🌱 Currently strengthening <b>Python, SQL, EDA, ML basics & data visualization</b>  
