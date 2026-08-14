@@ -20,11 +20,13 @@ alt="Profile Image"/>
 
 <h2>👨‍💻 About Me</h2>
 
-🎓 Final Year B.Tech in <b>Computer Science & Engineering</b> @ CMR University (CGPA: <b>8.07</b>)<br>
-🧪 Currently building depth in <b>QA and Systems Engineering</b> — manual, functional, regression, and sanity testing across web and mobile applications<br>
-📊 Growing into <b>data-driven, analytical work</b> — Python, SQL, EDA, and applied ML<br>
-🎯 Long-term goal: <b>Product / Project Management</b> — I care as much about *why* something is being built as *whether it works*<br>
-📝 Published researcher — paper accepted at <b>IEEE ICDCA 2026</b>
+<ul>
+<li>🎓 Final Year B.Tech in <b>Computer Science & Engineering</b> @ CMR University (CGPA: <b>8.07</b>)</li>
+<li>🧪 Currently building depth in <b>QA and Systems Engineering</b> — manual, functional, regression, and sanity testing across web and mobile applications</li>
+<li>📊 Growing into <b>data-driven, analytical work</b> — Python, SQL, EDA, and applied ML</li>
+<li>🎯 Long-term goal: <b>Product / Project Management</b> — I care as much about <i>why</i> something is being built as <i>whether it works</i></li>
+<li>📝 Published researcher — paper accepted at <b>IEEE ICDCA 2026</b></li>
+</ul>
 
 </td>
 </tr>
